@@ -11,6 +11,11 @@ https://security.ine.com/certifications/ejpt-certification/
 5. Searching for and crafting exploits.
 6. Exploiting vulnerabilities.
 7. Performing post exploitation activities
+8. Web Application Pentesting Basics
+
+## My Experience:
+
+As a cybersecurity enthusiast passionate about learning offensive security. I was very ambitious to take on eLearning Security's Penetration Testing Student learning path. After earning the CompTIA PenTest+ certification as part of my pentesting journey in November of 2023, the lab based training with eJPT really helped follow up with putting these concepts into practice.  
    
 
 
